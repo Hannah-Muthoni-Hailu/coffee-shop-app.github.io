@@ -6,7 +6,7 @@ function About() {
     <div className='max-w-full h-[100vh] md:h-[500px] mb-16 md:flex md:justify-center p-4 md:p-0'>
       <div className='flex flex-col md:flex-row md:justify-between gap-10'>
         <img className='w-full h-auto md:w-[60%] md:h-full rounded-xl'
-         src={coffee} alt="" />
+         src="https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&w=400" alt="" />
         <div className='flex flex-col gap-4 md:gap-10 py-4'>
           <h2 className='text-orange-600 cursor-pointer text-3xl font-bold text-center md:text-left'>
             CoffeeMate
